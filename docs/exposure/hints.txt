@@ -1,0 +1,45 @@
+OBJECTIVES:
+
+- find the orbs scattered around the map, and place them in the 7 pedestals
+
+- touch an orb to pick it up, touch a pedestal to place an orb
+
+- the game ends when an orb is placed in the pedestal on top of the metagolem (at the end of the map)
+
+- there are 10 orbs. 7 are black, 3 of them are already white when you find them
+
+- black orbs will turn into white orbs after 10 seconds in sunlight. they can't turn back.
+
+
+
+
+
+ENDINGS:
+
+easy ending (nothing happens):
+	- place less than 7 orbs when the last one is placed
+
+medium ending (neutral):
+	- place a mixture of 7 white and black orbs on pedestals
+	
+
+normal ending (SOL):
+	- place 7 white orbs on pedestals
+
+hard ending (NYX):
+	- place 7 black orbs on pedestals
+
+
+
+
+
+HINTS:
+	- there are other things you can carry, besides orbs
+
+	- you may have to backtrack
+
+	- sometimes it's useful to create your own shade
+
+	- there's always a black orb near each pedestal, even if it's hard to find
+
+	- the water and flower items will respawn back where you found them

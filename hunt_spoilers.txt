@@ -1,0 +1,30 @@
+spoilers
+
+plot:
+seven townsfolk carefully approach the castle of the dreaded local terror, hoping to banish it by performing a ritual using its gems of power.
+unfortunately for them, you are that monster. you'll let them believe they have a chance to succeed, while you lure them away and pick them off one by one.
+the townsfolk will try to search the castle for the gems. if they find them all and activate the altar, your disguise will be blown and they will hunt you down.
+
+objective:
+your goal is to kill all of the townsfolk without letting them escape the house, before they can find all the gems.
+when they are all dead, approach the hidden room behind the rock in the basement, and activate the coffin.
+
+hints:
+- if one of the townsfolk sees you commit a kill, he will immediately start hunting you
+- when carrying the bloody sword, townsfolk will get scared and have a chance to run away
+- there is a hidden area between the floors. use the ladder to get there. townsfolk will not follow you to this area
+- lure a lone townsfolk away from the rest, so they don't see you kill him
+- if you lure a townsfolk somewhere, he will begin to search the nearest object, buying you some time to kill him with a trap
+- if you've attracted their attention, townsfolk will follow you across floors
+
+traps:
+- on the second floor, open the window and summon a townsfolk using the down arrow key. push him out when he gets close
+- on the first floor, start a fire in the fireplace. push any nearby npcs into the fire
+- on the second floor, grab the sword from the weapon rack. approach a townsfolk and eviscerated him
+- on the hidden floor, activate the trapdoor when a townsfolk is standing above it to make him fall
+- on the hidden floor, cut the rope holding up the chandelier when a townsfolk is standing below it to crush him
+
+
+have fun!
+
+-zillix

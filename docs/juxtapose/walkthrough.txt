@@ -1,0 +1,96 @@
+juxtapose
+
+
+-----------------------------
+ENDINGS
+-----------------------------
+
+resign:
+	- this option appears on the device in the starting world after all of its antennae have been destroyed
+	- Easy solution: sleep. put all orbs on the pillars in the second world, and then sleep repeatedly
+
+
+
+flee:
+	- this option appears on the device in the second world when it has been fully charged, 
+	-	but the device in the first world has not charged
+	- Easy solution: sleep. put two orbs in the device, and two orbs on pillars. sleep repeatedly.
+
+
+
+abandon:
+	- this option appears on the device in the starting world when it has been fully charged, 
+	-	but the device in the dark world has not charge
+	- Easy solution: put two orbs in the first world's device. sleep until fully charged.
+
+
+
+embark:
+	- this option appears on either device when they are both fully charged
+	- Easy solution: put two orbs immediately in each machine, and sleep for a few nights. 
+
+
+
+mourn:
+	- this option appears on a traveler after it has been killed by the swarms that come at night
+	- Easy solution: simply rest for several nights, so that the second world has had three nights without protection
+
+
+
+worship:
+	- this option appears on the statue in the first world after it has cosumed all of the orbs
+	- Easy solution: simply feed all of the orbs to the statue, and then examine it again
+
+
+
+tend:
+	- this option appears on a fully-grown plant in either world
+	- Easy solution: feed an orb to the statue to spawn a plant. sleep. set up orbs on the pillars. 
+	-	sleep until the plant is fully grown (has fruit on the tree)
+
+
+
+catalyze:
+	- this option appears on the device in the first world when it is fully charged and the tree is fully grown
+	- Easy solution: feed an orb to the statue. put two orbs in the device. 
+	-	sleep, and put an orb in a pedestal in the second world. sleep until the tree has fully grown.
+
+
+
+solace:
+	- this option appears on a traveler when they have been presented with a color-changed orb
+	- Easy solution: talk to either traveler twice in the same day. sleep, then talk to the other traveler twice. 
+	-	sleep, and then talk to the first one twice again. 
+	-	grab an orb and show it to the traveler. put the orb back in the tower, sleep, and show that orb to the second traveler. 
+
+
+
+squander:
+	- this option appears over the player when they have used up all of the orbs but haven't achieved an ending
+	- Easy solution: feed one orb to the hanging lamp, and then feed the rest of the orbs to the statue
+	- NOTE: the hanging lamp is only available after an ending has been unlocked with one of the travelers escaping
+
+
+
+juxtapose:
+	- this option appears on the hanging lamp after it has consumed three orbs
+	- Easy solution: use an orb on the lamp. sleep, and then sleep again. repeat until it has been fed three orbs.
+	- NOTE: this will invert the world, making several other endings available
+	- NOTE: the lamp will only appear after an ending has been unlocked with one of the travelers escaping
+
+
+
+scorch:
+	- this appears on a beam of light, when the world is inverted and the player stands over the tree for a few seconds
+	- Easy solution: make sure the world has been inverted (through the juxtapose ending). 
+	-	feed an orb to the statue. stand over the seed for a few seconds.
+
+
+
+shroud:
+	- this appears on a beam of darkness, when the world is inverted and there is an orb of each of the pillars in the second world
+	- Easy solution: make sure the world has been inverted (through the juxtapose ending). 
+	-	place an orb on each of the pillars in the second world
+
+
+

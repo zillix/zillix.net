@@ -1,0 +1,52 @@
+exposure walkthrough:
+
+
+there are four endings:
+	-get only NYX orbs onto pedastals  (golem activates for NYX, kills SOL followers)
+	-get only SOL orbs onto pedastals  (golem activates for SOL, kills NYX followers)
+	-have a mixture of orbs (golem disappears, forcing SOL and NYX followers to confront each other)
+	-place less than 7 orbs (nothing happens)
+
+there are seven pedestals:
+	1. right in front of the player at the start of the game
+		-SOL: easy peasy. right in front of it
+		-NYX: a shadow orb is to the left, *behind* where the player starts
+
+	2. to the left of the starting area, on top of a pillar with runes on it
+		-SOL: wait for the orb to absorb light from the sun
+		-NYX: get the orb quickly to the top
+
+	3. further on and to the right. same deal as #2
+		-SOL: wait for the orb to absorb light
+		-NYX: get the orb quickly to the top
+
+	4. near the top of a ruined tower, to the right
+		-SOL: grab the light orb from the town, and walk back to the tower
+		-NYX: the treekeeper has a shadow orb
+			- first, grab the water from the treekeeper, and water the trees to the right, toward the tower
+			- the water respawns, so take as many trips as you need
+			- stop at the NPC by the dead bodies, and grab the flower
+			- walk backwards toward the treekeeper, making sure to pass through the tree shade on the way back
+			- after you get the orb from the treekeeper, go back along the same path to the tower
+
+	5. at the base of a statue of the woman with the sun and moon
+		-SOL: there's a shadow orb directly backwards from the statue, next to an NPC that killed a nyxan
+		-NYX: first, water the trees along the path between the orb and the statue, and then carry it safely across
+
+	6. hanging beneath a giant arch, on the left side just before the golem 
+		-SOL: grab the orb on top of the butte on the right side of the screen, and leisurely bring it back
+		-NYX: grab the orb on the butte, and quickly bring it back. shouldn't be a challenge
+
+	7. on top of the golem on the right (his left) shoulder
+		-SOL: there's an orb on his shoulder to the left; just climb up, grab it, and carry it across
+		-NYX: get a shadow orb from the nyxan hiding in the far right corner of the map
+
+
+thanks for playing!
+
+
+
+easter eggs:
+	-try staying motionless (no key presses) while climbing for 10s
+	-recognize the statue of the lady with sun and the moon as a goddess from a certain elder scrolls game?
+	-behind the starting camera, keep an eye out for a reference to another of my games, terra coda

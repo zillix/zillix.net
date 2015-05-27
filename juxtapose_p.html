@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8"/>
+	<title>juxtapose</title>
+	<meta name="description" content="" />
+	<script src="js/swfobject.js"></script>
+
+	<style>
+		html, body { height:100%; overflow:hidden; 
+		background-color: #000000;}
+		
+		body { margin:0; }
+	</style>
+	<script>
+			function selectSWF() {
+				document.getElementById("juxtapose_p").focus();
+			}
+			
+			var flashvars = {
+			};
+			var params = {
+				menu: "false",
+				scale: "noScale",
+				allowFullScreen: "true",
+				allowFullScreenInteractive: "true",
+				allowScriptAccess: "always",
+				bgcolor: "",
+				wmode: "direct" // can cause issues with FP settings & webcam
+			};
+			var attributes = {
+				id:"juxtapose_p",
+				"class": "game"
+			};
+			swfobject.embedSWF(
+				"media/juxtapose_p.swf", 
+				"altContent", "600", "600", "10.0.0", 
+				"expressInstall.swf", 
+				flashvars, params, attributes, selectSWF);
+		</script>
+	<style>
+	.game {
+		 position: absolute;
+		 left: 50%;
+		margin-left: -320px;
+	}
+	</style>
+	
+</head>
+<body>
+	<div id="altContent">
+		<h1>juxtapose_p</h1>
+		<p><a href="http://www.adobe.com/go/getflashplayer">Get Adobe Flash player</a></p>
+		
+		<font color="white">
+		<br/><br/><br/>
+		<p>
+		move with arrow keys
+		<br>
+		press space to interact
+		<br>
+		hold down to rest
+		</p>
+		</font>
+	</div>
+</body>
+</html>

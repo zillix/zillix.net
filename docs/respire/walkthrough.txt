@@ -1,0 +1,41 @@
+respire
+
+-----------------------------
+HINTS
+-----------------------------
+- Bubbles can dissolve jellyfish
+- Jellyfish drop orbs that can be returned to the submarine to extend your breathing tube
+
+
+-----------------------------
+Jellyfish
+-----------------------------
+1 & 2: Simply move under it and bubble
+3: Bubble under the rock to flip it into the pit
+4: Bubble under the jellyfish, then swim up to get the core
+
+
+-----------------------------
+ENDINGS
+-----------------------------
+
+YELLOW (treasure)
+- Open the chest (by bubbling under it) and get the crown
+- This is easiest if you collect all of the jellyfish cores
+
+RED (death)
+- Sever your air line (by pressing R) and run out of air
+
+
+CYAN (jelly)
+- Collect all of the jelly cores to get a maximum air line
+- Swim as far as you can go, and then cut your cord
+- Bubble under the rock to the right, to lift it
+- Swim up to the air pocket
+- Swim down to the queen jelly
+
+
+WHITE (dead body)
+- Immediately sever your air line
+- Swim to the bottom without killing any jellyfish
+- Touch the body at the body of the pit
