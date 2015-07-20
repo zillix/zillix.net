@@ -17,7 +17,7 @@
 }
 
 body {
-   font-family: hachea;
+   font-family: harmony;
    background: url( "images/backgroundLarge.png" );
    background-color: #02297C;
    background-repeat: repeat-x;
@@ -29,13 +29,13 @@ body {
 
 
 span.title{
-	font-family: hachea;
+	font-family: harmony;
 	font-size: 50px;
 	text-shadow: 4px 4px 4px #3333aa;
 }
 
 span.subtitle{
-	font-family: hachea;
+	font-family: harmony;
 	font-size: 20px;
 	text-shadow: 4px 4px 4px #3333aa;
 }
@@ -94,7 +94,7 @@ div.gamebox {
 /* HEADERS & TEXT */
 /* Game Title Header */
 h3 {
-	font-family: hachea;
+	font-family: harmony;
 	font-weight: bolder;
 	font-size: 26px;
 	text-align: center;
@@ -106,7 +106,7 @@ h3 {
 
 /* Game Tagline */
 h4 {
-	font-family: hachea;
+	font-family: harmony;
 	font-style: normal;
 	font-weight: lighter;
 	font-size: 14px;
@@ -135,7 +135,7 @@ font-family:Tahoma;
 /* Game Description */
 p.description {
 	background-color:#BBBBFF;
-	font-family: hachea;
+	font-family: harmony;
 	font-size: 12px;
 	text-align: left;
 	color: #000000;
@@ -150,7 +150,7 @@ p.description {
 /* Info Description */
 p.infoText {
 	background-color:#CCDDFF;
-	font-family: hachea;
+	font-family: harmony;
 	font-size: 12px;
 	text-align: center;
 	color: #000000;
