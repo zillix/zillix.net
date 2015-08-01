@@ -195,7 +195,8 @@ img.playButton{
 /* SWFS */
 .demo {
 	float: right;
-	width:60%;
+	width:370px;
+	height:320px;
 	position: relative;
 	border: 5px outset #3333AA;
 	cursor: pointer;
