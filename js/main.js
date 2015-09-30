@@ -106,6 +106,10 @@ function rollImage(img, type) {
 					case "playRespire":
 					window.location = "http://www.ludumdare.com/compo/ludum-dare-32/?action=preview&uid=2460";
 					break;
+					
+					case "playTaikun":
+					window.location = "http://www.ludumdare.com/compo/ludum-dare-33/?action=preview&uid=2460";
+					break;
 				}
 
 				break;
